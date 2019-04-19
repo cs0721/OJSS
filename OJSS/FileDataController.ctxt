@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FileDataController
+comment0.text=\r\n\ Class\ to\ control\ file\ input\ and\ output\r\n\ \r\n\ @auther\ (Yiming,\ Moon,\ Troy,\ Bryan)\r\n
+comment1.params=
+comment1.target=FileDataController()
+comment2.params=filename\ output
+comment2.target=void\ writeFile(java.lang.String,\ java.util.ArrayList)
+comment2.text=\r\n\ write\ content\ into\ local\ file\r\n\ \r\n\ @param\ filename\ name\ of\ file\r\n\ @param\ output\ content\ to\ write\r\n\ @return\ Null\r\n
+comment3.params=filename
+comment3.target=java.lang.String\ readFile(java.lang.String)
+comment3.text=\r\n\ read\ content\ from\ local\ file\r\n\ \r\n\ @param\ filename\ name\ of\ file\r\n\ @return\ Null\r\n
+numComments=4

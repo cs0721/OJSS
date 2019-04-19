@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Main\ class\ to\ run\ the\ program\r\n\ \r\n\ @auther\ (Yiming,\ Moon,\ Troy,\ Bryan)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ function\ to\ run\ the\ program\r\n\ \r\n\ @param\ None\r\n\ @return\ Null\r\n
+numComments=2

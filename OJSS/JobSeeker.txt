@@ -1,0 +1,3 @@
+yiming,kris,Job Seeker,male,yiming@gmail.com,passkris,java,chinese
+troy,troy,Job Seeker,male,troy@gmail.com,passtroy,photography,design
+bryan,bryan,Job Seeker,male,bryan@gmail.com,passbryan,basketball,running

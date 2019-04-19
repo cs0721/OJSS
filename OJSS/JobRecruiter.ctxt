@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=JobRecruiter
+comment0.text=\n\ Class\ of\ job\ recruiter\ object\n\ \n\ @auther\ (Yiming,\ Moon,\ Troy,\ Bryan)\n
+comment1.params=
+comment1.target=JobRecruiter()
+comment2.params=companyName\ location
+comment2.target=JobRecruiter(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCompanyName()
+comment3.text=\n\ company\ name\ getter\n\ @return\ name\ of\ company\n
+comment4.params=companyName
+comment4.target=void\ setCompanyName(java.lang.String)
+comment4.text=\n\ company\ name\ setter\n\ \n\ @param\ companyName\ name\ of\ company\n
+comment5.params=
+comment5.target=java.lang.String\ getLocation()
+comment5.text=\n\ location\ getter\n\ \n\ @return\ location\n
+comment6.params=location
+comment6.target=void\ setLocation(java.lang.String)
+comment6.text=\n\ location\ setter\n\ \n\ @param\ location\ location\n
+comment7.params=
+comment7.target=void\ displayJobRecruiter()
+comment7.text=\n\ display\ all\ the\ information\ of\ job\ recruiter\n
+numComments=8

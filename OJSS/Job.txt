@@ -1,0 +1,3 @@
+moon///java programming///to compile programs using java coding language///500///CBD, Melbourne, Australia///java,IT,programming///java,UMLet,network///kris,troy
+moon///c programming///to compile programs using c///600///Caulfield,Melbourne,Australia///c,IT,programming///c,UMLet,network///troy,bryan
+moon///python///to compile programs using python///400///Clayton,Melbourne,Australia///c++,IT,programming///python,UMLet,network///kris
